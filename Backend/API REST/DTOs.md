@@ -1,0 +1,2 @@
+**Data Transfer Object** es un objeto que lleva datos entre procesos o aplicaciones. 
+Encapsula y estandariza el formato para que sea mas fácil de transmitir a travéz de diferentes capas de una aplicación o entre diferentes aplicaciones. 

@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "9381be8a65173928",
+    "type": "split",
+    "children": [
+      {
+        "id": "3db4483d490fc416",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "895e7de465bc0fbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "ea17f837d9e9c6e0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.10"
+            }
+          },
+          {
+            "id": "9cfcb78d316affab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BASES DE DATOS/SQL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SQL"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d3e93f61ecb4f0e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d5dc02d682a73eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf81efe87d6553df",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "83cf0ac219966278",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e701110a831e5395",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 269.5
+  },
+  "right": {
+    "id": "7eb7a92215c6585a",
+    "type": "split",
+    "children": [
+      {
+        "id": "19cba53f8b39a3b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd0ef8c5512d80f1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "BASES DE DATOS/SQL.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for SQL"
+            }
+          },
+          {
+            "id": "30e3b56bd20fd3ce",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "BASES DE DATOS/SQL.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from SQL"
+            }
+          },
+          {
+            "id": "2ee30d5cbae4eb1e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "02252f6a2d77cdcf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "BASES DE DATOS/SQL.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of SQL"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 262.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9cfcb78d316affab",
+  "lastOpenFiles": [
+    "BASES DE DATOS/Teoría General.md",
+    "BASES DE DATOS/SQL.md",
+    "Untitled.md",
+    "TP1_Programacion.md",
+    "Untitled",
+    "API REST/ASP.NET.md",
+    "API REST/DTOs.md",
+    "BASES DE DATOS/Ejercicio Fútbol.md",
+    "BASES DE DATOS/TESTS.md",
+    "API REST/Notas.md",
+    "API REST/API.md",
+    "WEB/La WEB.md",
+    "Imgs/Pasted image 20250730142104.png",
+    "Imgs",
+    "Imgs/Pasted image 20250730142127.png",
+    "SHAFFERS/Cosas random.md",
+    "WEB",
+    "SHAFFERS",
+    "BASES DE DATOS/Ejercicio Academia TodoCode.md",
+    "BASES DE DATOS/Ejercicio Librería TodoCode.md",
+    "BASES DE DATOS/Ejercicio torneo_futbol5.md",
+    "BASES DE DATOS/Curso TodoCode.md",
+    "BASES DE DATOS/Partes de ejercicios.md",
+    "Welcome.md",
+    "BASES DE DATOS",
+    "API REST"
+  ]
+}
