@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend/BASES DE DATOS/Teoría General.md",
+                "file": "GIT CMD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Teoría General"
+              "title": "GIT CMD"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backend/BASES DE DATOS/Teoría General.md",
+                "file": "GIT CMD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Teoría General"
+              "title": "Enlaces entrantes de GIT CMD"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backend/BASES DE DATOS/Teoría General.md",
+                "file": "GIT CMD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Teoría General"
+              "title": "Enlaces salientes de GIT CMD"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backend/BASES DE DATOS/Teoría General.md",
+                "file": "GIT CMD.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Teoría General"
+              "title": "Esquema de GIT CMD"
             }
           }
         ]
@@ -170,6 +170,7 @@
   },
   "active": "df0c75833c0b490a",
   "lastOpenFiles": [
+    "Backend/BASES DE DATOS/Teoría General.md",
     "Backend/BASES DE DATOS/SQL.md",
     "Backend/BASES DE DATOS/Ejercicios/TESTS.md",
     "Backend/BASES DE DATOS/Ejercicios/Partes de ejercicios.md",
@@ -177,7 +178,6 @@
     "Backend/BASES DE DATOS/Ejercicios",
     "GIT CMD.md",
     "Backend/Sistemas de Computación/DER.md",
-    "Backend/BASES DE DATOS/Teoría General.md",
     "Backend/WEB/La WEB.md",
     "Backend/Untitled.md",
     "Backend/SHAFFERS/Cosas random.md",

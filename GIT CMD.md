@@ -17,3 +17,8 @@ git push
 ```c
 git pull
 ```
+**Si hay cambios en local y quiero hacerlos atrás**
+```c
+git reset --hard HEAD // borra todos los cambios locales y vuele al último commit
+	// despues se hace un pull y ya 
+```
