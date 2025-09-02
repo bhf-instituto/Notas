@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "001b3d88b6fa1e9d",
+    "type": "split",
+    "children": [
+      {
+        "id": "52c73b5004f6e015",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "821ce147af7aa99d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GIT CMD.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GIT CMD"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6b80d3bc62d235f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a7f9084aeef1007",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "011edadb8ab22f20",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "0becde51d7562e5b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "848443f5052b4b6d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0e775eb6905d3f61",
+    "type": "split",
+    "children": [
+      {
+        "id": "93dd3d616a04faf0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e255f07cc7e20fe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "GIT CMD.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de GIT CMD"
+            }
+          },
+          {
+            "id": "521b032e0fdcc1b1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "GIT CMD.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de GIT CMD"
+            }
+          },
+          {
+            "id": "76de36640697075f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "c4c2d37930da8b32",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "GIT CMD.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de GIT CMD"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "821ce147af7aa99d",
+  "lastOpenFiles": [
+    "Backend/BASES DE DATOS/Curso TodoCode.md",
+    "GIT CMD.md",
+    "Backend/Sistemas de Computación/DER.md",
+    "Backend/BASES DE DATOS/Teoría General.md",
+    "Backend/BASES DE DATOS/TESTS.md",
+    "Backend/WEB/La WEB.md",
+    "Backend/Untitled.md",
+    "Backend/SHAFFERS/Cosas random.md",
+    "Backend/Imgs/Pasted image 20250730142127.png",
+    "Backend/Imgs/Pasted image 20250730142104.png",
+    "Backend/Sistemas de Computación",
+    "Backend/API REST/Notas.md"
+  ]
+}
