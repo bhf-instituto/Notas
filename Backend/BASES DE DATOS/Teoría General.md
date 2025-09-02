@@ -43,7 +43,7 @@ En particular, los **atributos identificativos** son aquellos que permiten dif
 Para cada atributo, existe un **dominio** del mismo que hace referencia al tipo de datos que será almacenado a restricciones en los valores que el atributo puede tomar cadenas de caracteres, números, sólo dos letras, sólo números mayores que cero, sólo números enteros...).
 
 Cuando algún atributo correspondiente a una entidad no tiene un valor determinado, recibe el **valor nulo**, bien sea porque no se conoce, porque no existe o porque no se sabe nada al respecto del mismo.
-### [[GIT CMD]]
+### Relación
 Tienen una característica conocida como "cardinalidad", la cual indica el sentido y la cantidad de "relaciones" existentes entre una entidad y otra.
 
 #### Correspondencia de cardinalidades
