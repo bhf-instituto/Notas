@@ -61,7 +61,7 @@ El uso intensivo de tecnologías que buscan resultados rápidos (redes sociales,
 
 # **APP**
 
-**Objetivo principal:**  
+### **Objetivo principal:**  
 Ayudar a los niños y adolescentes (8 a 15 años) a desarrollar paciencia y hábitos de estudio sostenidos, enseñando contenidos de manera progresiva y explicativa, en vez de dar respuestas directas, utilizando inteligencia artificial para personalizar la experiencia.
 
 ---
@@ -142,7 +142,7 @@ Estos principios son clave en el desarrollo de intentar resolver la problemátic
     - Tiempo dedicado y progreso por materia
     - Recomendaciones personalizadas de la IA
 
-Esta pantalla es la que se encarga de mostrar la información ya sea de avance en los estudios, como tiempo de uso de la aplicación. No solo sirve para que el niño los vea y motivarse, si no que también para que los padres puedan verlos, lo cual también nos parece importante. 
+Esta pantalla es la que se encarga de mostrar la información ya sea de avance en los estudios, como tiempo de uso de la aplicación. No solo sirve para que el niño los vea y motivarse, si no que también **para que los padres puedan verlos**, lo cual también nos parece importante. 
 
 ---
 ### **Funcionalidades avanzadas**
@@ -153,7 +153,7 @@ Esta pantalla es la que se encarga de mostrar la información ya sea de avance e
 
 ---
 
-## **==Conceptos Generales==**
+## **==Pilares Fundamentales==**
 
 ### **Sistema de recompensas / Gamificación**
 

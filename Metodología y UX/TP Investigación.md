@@ -196,7 +196,7 @@ Ayudar a los niños (8 a 17 años) a desarrollar paciencia y hábitos de estudio
 
 ---
 
-## **==Conceptos Generales==**
+## **==Pilares fundamentales==**
 
 ### **Sistema de recompensas / Gamificación**
 

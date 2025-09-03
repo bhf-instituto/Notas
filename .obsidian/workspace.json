@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Metodología y UX/TP Investigación.md",
+                "file": "Metodología y UX/Investigación.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TP Investigación"
+              "title": "Investigación"
             }
           }
         ],
@@ -198,11 +198,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "011edadb8ab22f20",
+  "active": "82e09896fc357541",
   "lastOpenFiles": [
+    "Metodología y UX/TP Investigación.md",
     "Metodología y UX/Investigación.md",
     "Metodología y UX",
-    "Metodología y UX/TP Investigación.md",
     "Backend/BASES DE DATOS/Teoría General.md",
     "Backend/BASES DE DATOS/Normalizacion.xlsx",
     "Backend/BASES DE DATOS/SQL.md",
