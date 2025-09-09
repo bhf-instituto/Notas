@@ -1,4 +1,4 @@
-
+va
 ```c
 // Ubicación de los repositorios en ambas pcs 
 Laptop: C:\Obsidian_Notes\Instituto\Notas

@@ -1,0 +1,73 @@
+{
+  "items": [
+    {
+      "name": "Markdown"
+    },
+    {
+      "name": "Markdown (Hugo)"
+    },
+    {
+      "name": "Html",
+      "arguments": "-f ${fromFormat} --resource-path=\"${currentDir}\" --resource-path=--standalone --css \"ruta_a_tu_tema.css\"\"${attachmentFolderPath}\" --lua-filter=\"${luaDir}/math_block.lua\" --embed-resources --standalone --metadata title=\"${currentFileName}\" -s -o \"${outputPath}\" -t html  --include-theme"
+    },
+    {
+      "name": "TextBundle"
+    },
+    {
+      "name": "Typst"
+    },
+    {
+      "name": "PDF",
+      "customArguments": "--pdf-engine=xelatex --variable mainfont=\"DejaVu Sans\""
+    },
+    {
+      "name": "Word (.docx)"
+    },
+    {
+      "name": "OpenOffice"
+    },
+    {
+      "name": "RTF"
+    },
+    {
+      "name": "Epub"
+    },
+    {
+      "name": "Latex"
+    },
+    {
+      "name": "Media Wiki"
+    },
+    {
+      "name": "reStructuredText"
+    },
+    {
+      "name": "Textile"
+    },
+    {
+      "name": "OPML"
+    },
+    {
+      "name": "Bibliography"
+    },
+    {
+      "name": "PowerPoint (.pptx)"
+    },
+    {
+      "name": "PDF"
+    }
+  ],
+  "defaultExportDirectoryMode": "Custom",
+  "openExportedFile": true,
+  "env": {},
+  "showExportProgressBar": true,
+  "lastExportDirectory": {
+    "win32": "E:\\Obsidian_Notes\\Exports"
+  },
+  "lastEditName": "Html",
+  "showOverwriteConfirmation": false,
+  "lastExportType": "Html",
+  "customDefaultExportDirectory": {
+    "win32": "E:\\Obsidian_Notes\\Exports"
+  }
+}
