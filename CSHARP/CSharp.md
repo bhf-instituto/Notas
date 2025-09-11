@@ -53,3 +53,11 @@ foreach (var n in set)
 4
 5
 ```
+
+
+### Definir propiedad de solo lectura
+```csharp
+public int HitDieFaces { get; set; }
+public int Level => HitDiceCount;
+```
+`Level` no guarda un valor propio, sino que **refleja siempre** el valor actual de `HitDiceCount`.
