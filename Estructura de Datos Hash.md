@@ -24,12 +24,10 @@ edades["Ana"] = 25;
 - Ejemplos: [[Dictionary]], [[HashSet]] en C#, tablas hash en otros lenguajes.
 
 ---
-
 ### 4️⃣ Desventaja
 
 - Puede haber **colisiones**: dos objetos diferentes pueden generar el mismo hash.
 - La estructura debe manejar esas colisiones, normalmente con listas internas o encadenamiento.
-    
 
 ---
 
