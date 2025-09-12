@@ -18,7 +18,7 @@ module.exports = sum;
 const sum = require("./sum"); →→ No hace falta la extensión 
 console.log(sum(1,2));
 ```
-#### .mjs → para utilizar ES Modules
+#### .mjs → para utilizar ES Modules (Ecma Script Modules)
 ```js
 // operaciones.mjs
 export function sum (a,b) {

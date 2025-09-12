@@ -2,6 +2,32 @@ Es una función ejecutable que se usa como argumento de otra función «B». De 
 
 En otras palabras, una función de callback es una función que se pasa a otra función como un argumento, que luego se invoca dentro de la función externa para completar algún tipo de rutina o acción.
 
+* En los Callbacks el error **siempre** es el primer parámetro, justamente para que no olvidemos de manejarlo.
+ ```js
+	fs.readdir(".",(err, files) => {
+	    if(files == null){              // manejo de error 
+	        console.error(err);
+	        return;
+	    }
+	    files.forEach(file => {
+	        console.log("- ", file);
+	    })
+	})
+	// con promesa
+	fs.readdir(".")
+		.then(response => {
+	    response.forEach(res => console.log("- ", res))
+	})
+		.catch(err => console.error(err))
+		
+	// con async await
+	async function readDir(){
+	    const files = await fs.readdir(".");
+	    files.forEach(file => console.log("- ", file))
+	}
+	readDir();
+  ```
+
 Ejemplo:
 ``` js
 function saludar(nombre) {
