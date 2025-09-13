@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "05fbca8f8147438d",
+        "id": "ac6d3d86fe339273",
         "type": "tabs",
         "children": [
           {
-            "id": "249b2ff8564f0750",
+            "id": "0e789d016ea40983",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/Node/Modulos nativos/process.md",
+                "file": "JavaScript/Desestructuración.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "process"
+              "title": "Desestructuración"
             }
           }
         ]
@@ -169,22 +169,36 @@
       "bases:Create new base": false
     }
   },
-  "active": "249b2ff8564f0750",
+  "active": "0e789d016ea40983",
   "lastOpenFiles": [
-    "JavaScript/Node/Modulos nativos/FS (FileSystem).md",
+    "General/HTTP.md",
+    "JavaScript/Desestructuración.md",
+    "JavaScript/Untitled",
+    "General/REPL.md",
+    "General",
+    "General/Estructura de Datos Hash.md",
+    "Index.base",
+    "JavaScript/Teoría.md",
+    "JavaScript/Notas.md",
     "JavaScript/Node/Modulos nativos/process.md",
-    "JavaScript/Asincronía/Teoría.md",
+    "JavaScript/Node/Datas.md",
+    "PowerShell/PowerShell.md",
+    "JavaScript/Node/Node.md",
+    "tfugj4n3l6ez.webp",
+    "images/GJyer-BWQAAxmzB.jpg",
+    "JavaScript/Sintaxis.md",
     "JavaScript/Asincronía/Promises & Async - Await.md",
+    "JavaScript/Asincronía/Ejercicios.md",
+    "JavaScript/Node/Modulos nativos/FS (FileSystem).md",
+    "JavaScript/Asincronía/Teoría.md",
     "JavaScript/Asincronía/Callbacks.md",
     "JavaScript/CursoMidudev/Primer Proyecto.md",
     "JavaScript/Node/Modulos nativos/Path.md",
     "JavaScript/CursoMidudev",
     "JavaScript/Node/Modulos nativos/OS.md",
-    "JavaScript/Node/Datas.md",
     "JavaScript/Node/Modulos nativos",
     "Pasted image 20250912112045.png",
     "images/Pasted image 20250912112512.png",
-    "JavaScript/Teoría.md",
     "images/Pasted image 20250912012408.png",
     "images/Pasted image 20250912000836.png",
     "JavaScript/Asincronía/fetch().md",
@@ -194,27 +208,14 @@
     "images",
     "images/Pasted image 20250912000251.png",
     "JavaScript/Asincronía",
-    "JavaScript/Node/Node.md",
     "JavaScript",
-    "PowerShell/PowerShell.md",
-    "REPL.md",
     "CSHARP/CSharp.md",
     "PowerShell/Profiles.md",
-    "Index.base",
-    "Estructura de Datos Hash.md",
     "PowerShell",
     "CSHARP/Struct.md",
     "JavaScript/Node/package.json.md",
-    "JavaScript/Node/NVM.md",
     "JavaScript/Node",
-    "Backend/BASES DE DATOS/SQL.md",
-    "CSHARP/Clases/Object.md",
-    "CSHARP/Métodos/ToString().md",
-    "CSHARP/Métodos/Math/Max().md",
-    "CSHARP/Métodos/Math",
     "Pasted image 20250908214635.png",
-    "CSHARP/Clases",
-    "Backend/Imgs/Pasted image 20250730142127.png",
-    "Backend/Imgs/Pasted image 20250730142104.png"
+    "Backend/Imgs/Pasted image 20250730142127.png"
   ]
 }

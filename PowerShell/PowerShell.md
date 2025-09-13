@@ -7,3 +7,8 @@ Para instalar csi ([[REPL]] de [[CSharp]])
 ```powershell
 . $PROFILE
 ```
+
+### Para setear variables de entorno en Node
+```powershell
+$env:PORT="1234"; node index.js
+```

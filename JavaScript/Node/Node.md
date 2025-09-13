@@ -21,3 +21,9 @@ ___
 ```javascript
 console.log(globalThis)
 ```
+
+### Para setear variables de entorno desde el argumento [[PowerShell]]
+
+```powershell
+$env:PORT="1234"; node index.js
+```
