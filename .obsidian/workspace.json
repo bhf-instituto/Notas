@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/Notas.md",
+                "file": "GIT CMD  (cmdg).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notas"
+              "title": "GIT CMD  (cmdg)"
             }
           }
         ]
@@ -171,8 +171,10 @@
   },
   "active": "0e789d016ea40983",
   "lastOpenFiles": [
-    "JavaScript/Node/Datas.md",
+    "JavaScript/CursoMidudev/Primer Proyecto.md",
+    "JavaScript/Node/Node.md",
     "JavaScript/Notas.md",
+    "JavaScript/Node/Datas.md",
     "GIT CMD  (cmdg).md",
     "JavaScript/Desestructuración.md",
     "images/GJyer-BWQAAxmzB.jpg",
@@ -189,13 +191,11 @@
     "JavaScript/Teoría.md",
     "JavaScript/Node/Modulos nativos/process.md",
     "PowerShell/PowerShell.md",
-    "JavaScript/Node/Node.md",
     "tfugj4n3l6ez.webp",
     "JavaScript/Asincronía/Promises & Async - Await.md",
     "JavaScript/Node/Modulos nativos/FS (FileSystem).md",
     "JavaScript/Asincronía/Teoría.md",
     "JavaScript/Asincronía/Callbacks.md",
-    "JavaScript/CursoMidudev/Primer Proyecto.md",
     "JavaScript/Node/Modulos nativos/Path.md",
     "JavaScript/CursoMidudev",
     "JavaScript/Node/Modulos nativos/OS.md",
