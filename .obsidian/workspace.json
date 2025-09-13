@@ -11,14 +11,10 @@
             "id": "0e789d016ea40983",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaScript/Desestructuración.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Desestructuración"
+              "title": "New tab"
             }
           }
         ]
@@ -169,26 +165,28 @@
       "bases:Create new base": false
     }
   },
-  "active": "0e789d016ea40983",
+  "active": "011edadb8ab22f20",
   "lastOpenFiles": [
-    "General/HTTP.md",
+    "images/GJyer-BWQAAxmzB.jpg",
+    "JavaScript/Sintaxis.md",
+    "JavaScript/Notas.md",
     "JavaScript/Desestructuración.md",
-    "JavaScript/Untitled",
+    "JavaScript/Asincronía/Ejercicios.md",
     "General/REPL.md",
-    "General",
+    "General/HTTP.md",
     "General/Estructura de Datos Hash.md",
+    "General",
+    "REPL.md",
+    "Estructura de Datos Hash.md",
+    "JavaScript/Untitled",
     "Index.base",
     "JavaScript/Teoría.md",
-    "JavaScript/Notas.md",
     "JavaScript/Node/Modulos nativos/process.md",
     "JavaScript/Node/Datas.md",
     "PowerShell/PowerShell.md",
     "JavaScript/Node/Node.md",
     "tfugj4n3l6ez.webp",
-    "images/GJyer-BWQAAxmzB.jpg",
-    "JavaScript/Sintaxis.md",
     "JavaScript/Asincronía/Promises & Async - Await.md",
-    "JavaScript/Asincronía/Ejercicios.md",
     "JavaScript/Node/Modulos nativos/FS (FileSystem).md",
     "JavaScript/Asincronía/Teoría.md",
     "JavaScript/Asincronía/Callbacks.md",
@@ -210,10 +208,7 @@
     "JavaScript/Asincronía",
     "JavaScript",
     "CSHARP/CSharp.md",
-    "PowerShell/Profiles.md",
     "PowerShell",
-    "CSHARP/Struct.md",
-    "JavaScript/Node/package.json.md",
     "JavaScript/Node",
     "Pasted image 20250908214635.png",
     "Backend/Imgs/Pasted image 20250730142127.png"
