@@ -11,10 +11,14 @@
             "id": "0e789d016ea40983",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript/Notas.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Notas"
             }
           }
         ]
@@ -165,12 +169,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "011edadb8ab22f20",
+  "active": "0e789d016ea40983",
   "lastOpenFiles": [
+    "JavaScript/Node/Datas.md",
+    "JavaScript/Notas.md",
+    "GIT CMD  (cmdg).md",
+    "JavaScript/Desestructuración.md",
     "images/GJyer-BWQAAxmzB.jpg",
     "JavaScript/Sintaxis.md",
-    "JavaScript/Notas.md",
-    "JavaScript/Desestructuración.md",
     "JavaScript/Asincronía/Ejercicios.md",
     "General/REPL.md",
     "General/HTTP.md",
@@ -182,7 +188,6 @@
     "Index.base",
     "JavaScript/Teoría.md",
     "JavaScript/Node/Modulos nativos/process.md",
-    "JavaScript/Node/Datas.md",
     "PowerShell/PowerShell.md",
     "JavaScript/Node/Node.md",
     "tfugj4n3l6ez.webp",

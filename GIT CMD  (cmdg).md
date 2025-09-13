@@ -37,6 +37,14 @@ git pull
 git stash pop
 ```
 
+### Qué hace `git pull --rebase`
+
+1. Git descarga los cambios que existen en remoto (`origin/main`) que tú **no tienes todavía**.
+2. Temporariamente “aparta” tus commits locales que todavía no se han subido.
+3. Aplica los commits remotos.
+4. Luego **aplica tus commits locales encima** de esos cambios remotos.
+
+En otras palabras, tus últimos cambios se reescriben **sobre lo que ya está en remoto**, preservando tu trabajo.
 
 ** Puedo hacer un script para correr todo junto : ** 
 
