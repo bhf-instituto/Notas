@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "ac6d3d86fe339273",
+        "id": "6163199d6bc07fd0",
         "type": "tabs",
         "children": [
           {
-            "id": "0e789d016ea40983",
+            "id": "851c7df3a6603e73",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT CMD  (cmdg).md",
+                "file": "JavaScript/Mozilla Developer Network (MDN)/Programación Lado Servidor/3. Visión General Cliente-Servidor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GIT CMD  (cmdg)"
-            }
-          },
-          {
-            "id": "2d69f715d7a8bebb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Instituto 93/Programación/Definiciones 1er parcial.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Definiciones 1er parcial"
+              "title": "3. Visión General Cliente-Servidor"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 253.50260543823242
   },
   "right": {
     "id": "0e775eb6905d3f61",
@@ -184,53 +169,53 @@
       "bases:Create new base": false
     }
   },
-  "active": "2d69f715d7a8bebb",
+  "active": "851c7df3a6603e73",
   "lastOpenFiles": [
-    "GIT CMD  (cmdg).md",
+    "JavaScript/Mozilla Developer Network (MDN)/Programación Lado Servidor/1. Que es un servidor WEB.md",
+    "JavaScript/Mozilla Developer Network (MDN)/Programación Lado Servidor/3. Visión General Cliente-Servidor.md",
+    "JavaScript/Mozilla Developer Network (MDN)/Programación Lado Servidor/2. Introducción al lado servidor.md",
+    "JavaScript/Mozilla Developer Network (MDN)",
+    "JavaScript/Mozilla Developer Network (MDN)/Programación Lado Servidor/Pre requisitos/HTTP.md",
+    "JavaScript/General/Desestructuración.md",
+    "JavaScript/General",
+    "JavaScript/Mozilla Developer Network (MDN)/Programación Lado Servidor/Pre requisitos/Como funciona la web.md",
+    "web-server.svg",
+    "JavaScript/Mozilla Developer Network (MDN)/Programación Lado Servidor/Pre requisitos/Como funciona Internet.md",
+    "internet-schema-2.png",
+    "internet-schema-1-1.png",
+    "JavaScript/Mozilla Developer Network (MDN)/Programación Lado Servidor/Pre requisitos/Diferencias entre Página, Sitio, etc....md",
+    "web-page.jpg",
     "Instituto 93/Programación/Definiciones 1er parcial.md",
+    "JavaScript/Mozilla Developer Network (MDN)/Programación Lado Servidor/Pre requisitos",
+    "JavaScript/Mozilla Developer Network (MDN)/Programación Lado Servidor",
+    "GIT CMD  (cmdg).md",
     "Instituto 93/Programación",
     "Instituto 93",
     "JavaScript/CursoMidudev/Primer Proyecto.md",
     "JavaScript/Node/Node.md",
-    "JavaScript/Notas.md",
+    "JavaScript/General/Notas.md",
     "JavaScript/Node/Datas.md",
-    "JavaScript/Desestructuración.md",
     "images/GJyer-BWQAAxmzB.jpg",
-    "JavaScript/Sintaxis.md",
+    "JavaScript/General/Sintaxis.md",
     "JavaScript/Asincronía/Ejercicios.md",
     "General/REPL.md",
-    "General/HTTP.md",
     "General/Estructura de Datos Hash.md",
     "General",
     "REPL.md",
     "Estructura de Datos Hash.md",
-    "JavaScript/Untitled",
     "Index.base",
-    "JavaScript/Teoría.md",
+    "JavaScript/General/Teoría.md",
     "JavaScript/Node/Modulos nativos/process.md",
     "PowerShell/PowerShell.md",
     "tfugj4n3l6ez.webp",
     "JavaScript/Asincronía/Promises & Async - Await.md",
     "JavaScript/Node/Modulos nativos/FS (FileSystem).md",
     "JavaScript/Asincronía/Teoría.md",
-    "JavaScript/Asincronía/Callbacks.md",
-    "JavaScript/Node/Modulos nativos/Path.md",
     "JavaScript/CursoMidudev",
-    "JavaScript/Node/Modulos nativos/OS.md",
     "JavaScript/Node/Modulos nativos",
     "Pasted image 20250912112045.png",
     "images/Pasted image 20250912112512.png",
     "images/Pasted image 20250912012408.png",
-    "images/Pasted image 20250912000836.png",
-    "JavaScript/Asincronía/fetch().md",
-    "JavaScript/Métodos de arrays.md",
-    "JavaScript/module.export.md",
-    "images/Pasted image 20250912000036.png",
-    "images",
-    "images/Pasted image 20250912000251.png",
-    "JavaScript/Asincronía",
-    "JavaScript",
-    "Pasted image 20250908214635.png",
-    "Backend/Imgs/Pasted image 20250730142127.png"
+    "images/Pasted image 20250912000836.png"
   ]
 }

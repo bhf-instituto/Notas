@@ -1,4 +1,6 @@
 {
   "theme": "obsidian",
-  "cssTheme": "Black"
+  "cssTheme": "Black",
+  "baseFontSize": 16,
+  "nativeMenus": false
 }
