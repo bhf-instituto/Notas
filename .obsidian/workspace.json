@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/Mozilla Developer Network (MDN)/Programación Lado Servidor/3. Visión General Cliente-Servidor.md",
+                "file": "Instituto 93/Programación/Definiciones 1er parcial.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Visión General Cliente-Servidor"
+              "title": "Definiciones 1er parcial"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -160,19 +160,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
     }
   },
   "active": "851c7df3a6603e73",
   "lastOpenFiles": [
-    "JavaScript/Mozilla Developer Network (MDN)/Programación Lado Servidor/1. Que es un servidor WEB.md",
+    "Instituto 93/Metodología y UX/TP Investigación.md",
+    "Instituto 93/Metodología y UX/Investigación.md",
+    "Instituto 93/Metodología y UX/Sampieri Cap 7.md",
+    "Backend/BASES DE DATOS/SQL.md",
+    "Backend/BASES DE DATOS/Teoría General.md",
+    "Backend/BASES DE DATOS/~$Normalizacion.xlsx",
     "JavaScript/Mozilla Developer Network (MDN)/Programación Lado Servidor/3. Visión General Cliente-Servidor.md",
+    "JavaScript/Mozilla Developer Network (MDN)/Programación Lado Servidor/1. Que es un servidor WEB.md",
     "JavaScript/Mozilla Developer Network (MDN)/Programación Lado Servidor/2. Introducción al lado servidor.md",
     "JavaScript/Mozilla Developer Network (MDN)",
     "JavaScript/Mozilla Developer Network (MDN)/Programación Lado Servidor/Pre requisitos/HTTP.md",
@@ -205,14 +211,8 @@
     "Estructura de Datos Hash.md",
     "Index.base",
     "JavaScript/General/Teoría.md",
-    "JavaScript/Node/Modulos nativos/process.md",
-    "PowerShell/PowerShell.md",
     "tfugj4n3l6ez.webp",
-    "JavaScript/Asincronía/Promises & Async - Await.md",
-    "JavaScript/Node/Modulos nativos/FS (FileSystem).md",
-    "JavaScript/Asincronía/Teoría.md",
     "JavaScript/CursoMidudev",
-    "JavaScript/Node/Modulos nativos",
     "Pasted image 20250912112045.png",
     "images/Pasted image 20250912112512.png",
     "images/Pasted image 20250912012408.png",

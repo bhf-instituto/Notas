@@ -19,6 +19,7 @@ A partir de todo esto planteamos la **hipótesis**: El uso excesivo de tecnolog�
 
 En síntesis, siguiendo lo que plantea Sabino, este trabajo se ubica dentro de una investigación **aplicada** (porque busca una solución práctica al problema) y de carácter **descriptivo-explicativo** (porque describe la situación actual y trata de explicar sus causas y alternativas). El proceso arranca con la formulación y delimitación del problema, sigue con el marco teórico, y termina con la hipótesis. Eventualmente, esto se podría complementar con encuestas o entrevistas a estudiantes y docentes, e incluso con pruebas piloto de apps educativas que nos permitan ver si la propuesta es viable.
 
+
 ---
 
 #### Marco Teórico

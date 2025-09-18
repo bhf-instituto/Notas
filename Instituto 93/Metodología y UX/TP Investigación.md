@@ -95,10 +95,12 @@ Por eso surge la idea de diseñar aplicaciones educativas con IA que **no den la
 
 El uso intensivo de tecnologías que buscan resultados rápidos (redes sociales, buscadores, apps de entretenimiento) ha reducido la paciencia de los jóvenes para aprender en profundidad. Sin embargo, una app educativa con IA, que explique paso a paso y no dé la respuesta directa, podría ayudar a desarrollar la paciencia y mejorar el aprendizaje sostenido.
 
+**Causa**:  variable dependiente 
+**Consecuencia**:  variable independiente
+
+### Formulario con espera entre preguntas 
 
 ---
----
-
 # ==**APP** ==
 
 **Objetivo principal:**  
@@ -219,3 +221,10 @@ Ayudar a los niños (8 a 17 años) a desarrollar paciencia y hábitos de estudio
 - Recompensas visuales al completar tareas.
 - Retos graduales, evitando frustración y promoviendo hábitos sostenidos.
 
+
+
+
+
+___ 
+## **Explicitar** el diseño en la tesina 
+[[Sampieri cap 7]] 
