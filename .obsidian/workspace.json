@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Instituto 93/Programación/Definiciones 1er parcial.md",
+                "file": "JavaScript/Node/Módulos externos/cross-env.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Definiciones 1er parcial"
+              "title": "cross-env"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
+              "title": "Files"
             }
           },
           {
@@ -160,24 +160,42 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
   "active": "851c7df3a6603e73",
   "lastOpenFiles": [
+    "JavaScript/Asincronía/Callbacks.md",
+    "JavaScript/Node/package.json.md",
+    "JavaScript/Node/Módulos externos/cross-env.md",
+    "PowerShell/PowerShell.md",
+    "JavaScript/Node/Módulos Nativos/process.md",
+    "JavaScript/Node/Módulos externos",
+    "JavaScript/Node/NVM.md",
+    "JavaScript/CursoMidudev/Primer Proyecto.md",
+    "JavaScript/Mozilla Developer Network (MDN)/Express (Node.js)/1. Introducción a Express.md",
+    "JavaScript/Mozilla Developer Network (MDN)/Programación Lado Servidor/5. Seguridad de Sitios Web.md",
+    "JavaScript/Mozilla Developer Network (MDN)/Express (Node.js)",
+    "JavaScript/Mozilla Developer Network (MDN)/Programación Lado Servidor/4. Frameworks Web de lado servidor.md",
+    "JavaScript/Mozilla Developer Network (MDN)/Programación Lado Servidor/3. Visión General Cliente-Servidor.md",
     "Instituto 93/Metodología y UX/TP Investigación.md",
+    "CSHARP/Clases/Object.md",
+    "CSHARP/Clases/Dictionary.md",
+    "Backend/BASES DE DATOS/Teoría General.md",
+    "Backend/Imgs/Pasted image 20250730142127.png",
+    "Backend/Imgs/Pasted image 20250730142104.png",
+    "Backend/BASES DE DATOS/Ejercicios/Ejercicio Fútbol.md",
+    "Backend/BASES DE DATOS/SQL.md",
+    "Instituto 93/Programación/Definiciones 1er parcial.md",
     "Instituto 93/Metodología y UX/Investigación.md",
     "Instituto 93/Metodología y UX/Sampieri Cap 7.md",
-    "Backend/BASES DE DATOS/SQL.md",
-    "Backend/BASES DE DATOS/Teoría General.md",
     "Backend/BASES DE DATOS/~$Normalizacion.xlsx",
-    "JavaScript/Mozilla Developer Network (MDN)/Programación Lado Servidor/3. Visión General Cliente-Servidor.md",
     "JavaScript/Mozilla Developer Network (MDN)/Programación Lado Servidor/1. Que es un servidor WEB.md",
     "JavaScript/Mozilla Developer Network (MDN)/Programación Lado Servidor/2. Introducción al lado servidor.md",
     "JavaScript/Mozilla Developer Network (MDN)",
@@ -189,33 +207,15 @@
     "JavaScript/Mozilla Developer Network (MDN)/Programación Lado Servidor/Pre requisitos/Como funciona Internet.md",
     "internet-schema-2.png",
     "internet-schema-1-1.png",
-    "JavaScript/Mozilla Developer Network (MDN)/Programación Lado Servidor/Pre requisitos/Diferencias entre Página, Sitio, etc....md",
     "web-page.jpg",
-    "Instituto 93/Programación/Definiciones 1er parcial.md",
     "JavaScript/Mozilla Developer Network (MDN)/Programación Lado Servidor/Pre requisitos",
     "JavaScript/Mozilla Developer Network (MDN)/Programación Lado Servidor",
-    "GIT CMD  (cmdg).md",
     "Instituto 93/Programación",
     "Instituto 93",
-    "JavaScript/CursoMidudev/Primer Proyecto.md",
-    "JavaScript/Node/Node.md",
-    "JavaScript/General/Notas.md",
-    "JavaScript/Node/Datas.md",
     "images/GJyer-BWQAAxmzB.jpg",
-    "JavaScript/General/Sintaxis.md",
-    "JavaScript/Asincronía/Ejercicios.md",
-    "General/REPL.md",
-    "General/Estructura de Datos Hash.md",
     "General",
-    "REPL.md",
-    "Estructura de Datos Hash.md",
-    "Index.base",
-    "JavaScript/General/Teoría.md",
     "tfugj4n3l6ez.webp",
-    "JavaScript/CursoMidudev",
     "Pasted image 20250912112045.png",
-    "images/Pasted image 20250912112512.png",
-    "images/Pasted image 20250912012408.png",
-    "images/Pasted image 20250912000836.png"
+    "images/Pasted image 20250912112512.png"
   ]
 }
