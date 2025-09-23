@@ -1,13 +1,54 @@
 `jsonwebtoken` es un paquete de Node.js que permite **crear** y **verificar** tokens JWT (JSON Web Tokens).
 
-👉 **¿Qué es un JWT?**  
+### 👉 **¿Qué es un JWT?**  
 Un **JWT** es un string en formato `header.payload.signature` usado para **autenticación y autorización** en aplicaciones.  
+
+Un **JWT (JSON Web Token)** es un estándar abierto (RFC 7519) para **transmitir información de forma segura entre dos partes como un objeto JSON**.  
+Se utiliza principalmente en **autenticación y autorización**.
+
+Un token JWT tiene tres partes:
+
+1. **Header** (encabezado): dice el algoritmo de firma y el tipo de token.
+2. **Payload** (carga útil): contiene los datos (ej. id de usuario, email, roles).
+3. **Signature** (firma): asegura que el token no fue modificado.
+
 Se genera con una **clave secreta** (o certificado privado) y se usa para:
 
 - Identificar usuarios.
 - Manejar sesiones sin guardar estado en el servidor (stateless).
 - Proteger rutas o recursos en una API.
 
+### 🛡️ ¿Para qué sirve un JWT?
+
+Principalmente para **autenticación sin estado (stateless)**:
+
+- El usuario inicia sesión con usuario/contraseña.
+- El servidor genera un JWT y lo devuelve al cliente.
+- El cliente guarda el token (ej: en localStorage o cookie).
+- Cada vez que el cliente hace una petición, envía el JWT en los headers (`Authorization: Bearer <token>`).
+- El servidor valida el token y, si es correcto, permite el acceso.
+
+De esta forma:
+
+- El servidor **no necesita guardar sesiones en memoria o base de datos**, solo valida el token.
+- Es ideal para **APIs REST** y **microservicios**.
+
+### ⏳ ¿Por qué tiene tiempo de expiración?
+
+Por seguridad.
+
+- Si un JWT fuera **infinito**, cualquiera que lo robe tendría acceso para siempre.
+    
+- Con un tiempo de expiración (ej. `15m`, `1h`, `7d`), el token caduca y ya no sirve.
+    
+- Esto **limita el daño en caso de robo**.
+    
+
+Generalmente se usan dos tipos:
+
+- **Access Token** (vida corta, ej. 15 min – 1h).
+    
+- **Refresh Token** (vida más larga, ej. 7 días – 30 días). Se usa para pedir un nuevo access token sin volver a loguearse.
 ### Crear (firmar) un token
 
 ```js
