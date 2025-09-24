@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.50260543823242
+    "width": 253.50260543823242,
+    "collapsed": true
   },
   "right": {
     "id": "0e775eb6905d3f61",
@@ -160,17 +161,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
     }
   },
   "active": "032c81b112b942c3",
   "lastOpenFiles": [
+    "Backend/BASES DE DATOS/SQL.md",
+    "Backend/BASES DE DATOS/DER/Análisis Estructurado Moderno - Edward Yourdon.md",
+    "images/D3909000",
+    "images/Diccionario de Datos - Analisis de sistemas.xlsx",
+    "images/~$Diccionario de Datos - Analisis de sistemas.xlsx",
     "images/Pasted image 20250923145733.png",
     "images/Pasted image 20250923154248.png",
     "images/Pasted image 20250923153402.png",
@@ -181,8 +187,6 @@
     "images/Pasted image 20250923145821.png",
     "images/Pasted image 20250923150154.png",
     "images/Pasted image 20250923154419.png",
-    "images/Pasted image 20250923154440.png",
-    "Backend/BASES DE DATOS/DER/Análisis Estructurado Moderno - Edward Yourdon.md",
     "Backend/Sistemas de Computación/DER.md",
     "JavaScript/CursoMidudev/Primer Proyecto.md",
     "Index.base",
@@ -194,7 +198,6 @@
     "General/Estructura de Datos Hash.md",
     "Backend/Node/Módulos externos/Express/Curso SmolJames/Creando el servidor.md",
     "Backend/Node/Node.md",
-    "Backend/BASES DE DATOS/SQL.md",
     "Backend/Node/Módulos externos/Dev/nodemon.md",
     "Backend/Node/Módulos externos/Express/Curso SmolJames",
     "JavaScript/Node/Módulos externos/Express/Datas.md",
@@ -213,9 +216,6 @@
     "Backend/Mozilla Developer Network (MDN)/Express (Node.js)",
     "Backend/Mozilla Developer Network (MDN)/Programación Lado Servidor/4. Frameworks Web de lado servidor.md",
     "Backend/Mozilla Developer Network (MDN)/Programación Lado Servidor/3. Visión General Cliente-Servidor.md",
-    "Instituto 93/Metodología y UX/TP Investigación.md",
-    "Backend/BASES DE DATOS/~$Normalizacion.xlsx",
-    "Backend/Mozilla Developer Network (MDN)",
-    "JavaScript/General"
+    "Instituto 93/Metodología y UX/TP Investigación.md"
   ]
 }
