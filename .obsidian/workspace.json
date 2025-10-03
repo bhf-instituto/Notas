@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend/BASES DE DATOS/DER/Análisis Estructurado Moderno - Edward Yourdon.md",
+                "file": "CSHARP/Clases/SHA256 (Hash).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Análisis Estructurado Moderno - Edward Yourdon"
+              "title": "SHA256 (Hash)"
+            }
+          },
+          {
+            "id": "d39745b51732c63e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Instituto 93/Administracion/Datos, informacion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Datos, informacion"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +59,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
+              "title": "Files"
             }
           },
           {
@@ -78,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.50260543823242,
-    "collapsed": true
+    "width": 253.50260543823242
   },
   "right": {
     "id": "0e775eb6905d3f61",
@@ -161,17 +175,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
-  "active": "032c81b112b942c3",
+  "active": "d39745b51732c63e",
   "lastOpenFiles": [
+    "Instituto 93/Administracion/Datos, informacion.md",
+    "Instituto 93/Administracion",
+    "CSHARP/Clases/HashSet.md",
+    "CSHARP/Clases/SHA256 (Hash).md",
+    "Instituto 93/Programación/TP 2.md",
     "Backend/BASES DE DATOS/SQL.md",
     "Backend/BASES DE DATOS/DER/Análisis Estructurado Moderno - Edward Yourdon.md",
     "images/D3909000",
@@ -212,10 +231,6 @@
     "Backend/Node/Módulos externos",
     "Backend/Node/NVM.md",
     "Backend/Mozilla Developer Network (MDN)/Express (Node.js)/1. Introducción a Express.md",
-    "Backend/Mozilla Developer Network (MDN)/Programación Lado Servidor/5. Seguridad de Sitios Web.md",
-    "Backend/Mozilla Developer Network (MDN)/Express (Node.js)",
-    "Backend/Mozilla Developer Network (MDN)/Programación Lado Servidor/4. Frameworks Web de lado servidor.md",
-    "Backend/Mozilla Developer Network (MDN)/Programación Lado Servidor/3. Visión General Cliente-Servidor.md",
-    "Instituto 93/Metodología y UX/TP Investigación.md"
+    "Backend/Mozilla Developer Network (MDN)/Programación Lado Servidor/5. Seguridad de Sitios Web.md"
   ]
 }
