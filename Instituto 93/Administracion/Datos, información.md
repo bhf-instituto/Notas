@@ -15,8 +15,52 @@ La contabilidad funciona como un **sistema de información** que registra todas 
 Existen dos enfoques:
 
 - La **contabilidad tradicional** o financiera, que se centra en registrar transacciones y mostrar el estado contable (ingresos, egresos, patrimonio).
-    
 - La **contabilidad gerencial**, que apoya la toma de decisiones, relacionando la información contable con los objetivos y estrategias del negocio.
-    
 
 En definitiva, la contabilidad permite **medir resultados, evaluar la eficiencia de los procesos y distribuir los recursos de manera justa**, siempre expresando los resultados en dinero para poder compararlos y tomar decisiones objetivas.
+
+
+## Presupuesto
+
+* El total de lo que queda del primer trimestre se usa como saldo inicial del segundo trimestres, y así. 
+
+## Clase 13 - Control
+
+### Tpos de control 
+
+**Formal**: se basa en los numeros.  Es el control mas básico.  N otoma en cuenta lo organizacional, el entorno. Perspectiva limitada. 
+
+**alvares** : Coincide mucho con las definiciones anterior, ver al control como el fin útlimo pinta para ser una mira da mas limitada. 
+
+**Drucker**: La diferenciacion entre la pabalra control y controles. El cntrol es hoy, ya, es mas rigido, mas limitante. En cambio controles son un proceso, son una serie de cosas. 
+El control es un fin, los controles tratan con hecos ocurdrdos. El control es normativo y se ocupa de lo que deberia de ser. 
+Este chad mete el tema de la subjetividad, elcontexto y las variables del mismo, empleados, etc. 
+
+**Controles:** 
++ No pueden ser objetivos, ni neutrales.
++ Es relativo, ronda entre las variables. 
+**Necesidades de los controles:** 
++ deben ser operativos
++ sencillos 
++ economicos
++ significativos
++ congruentes con los hechos medidos (que estoy controlando? que variables? debe seguir estas variables)
++ deben ser oportunos 
+
+El punto es optimizar el proceso de control. 
+
+### Niveles de control
+depende el nivel (estategico, tactic, operatico) es el tipo de cntrol que se va a realizar  
+
+### Nivel posicional: 
+**Control POSICIONAL**:
+Posicionamiento del mercado, en relacion ala competencia, el entorno, a todo lo que engloba todo lo que tien e que ver con la empresa. 
+
+**Control de estion**:
+	control entre las relaciones, de procesos, control de asignacion de recursos 
+	
+**Control operativo:**
+
+• Ejecución de tareas
+ • Control financiero
+• Eficiencia
