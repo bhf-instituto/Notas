@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Instituto 93/Metodología y UX/Investigación.md",
+                "file": "Instituto 93/Metodología y UX/La atención sostenida en edad escolar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Investigación"
+              "title": "La atención sostenida en edad escolar"
             }
           }
         ]
@@ -171,6 +171,8 @@
   },
   "active": "d39745b51732c63e",
   "lastOpenFiles": [
+    "Instituto 93/Metodología y UX/Investigación.md",
+    "Instituto 93/Metodología y UX/La atención sostenida en edad escolar.md",
     "Instituto 93/Administracion/Datos, información.md",
     "CSHARP/Clases/SHA256 (Hash).md",
     "Instituto 93/Administracion",
@@ -214,8 +216,6 @@
     "PowerShell/PowerShell.md",
     "Backend/Node/Módulos Nativos/process.md",
     "Backend/Node/Módulos externos",
-    "Backend/Node/NVM.md",
-    "Backend/Mozilla Developer Network (MDN)/Express (Node.js)/1. Introducción a Express.md",
-    "Backend/Mozilla Developer Network (MDN)/Programación Lado Servidor/5. Seguridad de Sitios Web.md"
+    "Backend/Node/NVM.md"
   ]
 }
