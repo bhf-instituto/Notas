@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Instituto 93/Administracion/Datos, información.md",
+                "file": "Instituto 93/Metodología y UX/Investigación.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Datos, información"
+              "title": "Investigación"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
+              "title": "Files"
             }
           },
           {
@@ -160,19 +160,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
   "active": "d39745b51732c63e",
   "lastOpenFiles": [
-    "CSHARP/Clases/SHA256 (Hash).md",
     "Instituto 93/Administracion/Datos, información.md",
+    "CSHARP/Clases/SHA256 (Hash).md",
     "Instituto 93/Administracion",
     "CSHARP/Clases/HashSet.md",
     "Instituto 93/Programación/TP 2.md",

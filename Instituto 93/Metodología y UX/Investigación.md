@@ -49,3 +49,76 @@ Por eso surge la idea de diseñar aplicaciones educativas con IA que **no den la
 4. **Andamios conceptuales en matemáticas:**  
     Usar estructuras de pensamiento previas ayuda a los estudiantes a perseverar en problemas difíciles, mostrando que la paciencia se puede entrenar ([ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0732312322000335?utm_source=chatgpt.com)).
 
+
+
+# Estudios de Atención sostenida
+https://wordwall.net/es-ar/community/atencion-sostenida
+https://wordwall.net/es/resource/6252380/atencion-dante
+https://www.psicoactiva.com/test/psicotecnicos/atencion-y-observacion/
+
+# **La atención sostenida en edad escolar: el sexo y el desarrollo cognitivo**
+https://journals.copmadrid.org/psed/art/psed2025a15
+
+## 📘 Introducción
+
+La atención sostenida es esencial para el desarrollo cognitivo y el rendimiento académico de los escolares. Este estudio se centró en analizar cómo evoluciona la capacidad de mantener la atención en niños de 7 a 13 años, considerando la influencia de la edad y el sexo. Se utilizó la Teoría de Detección de Señales (TDS) para evaluar aspectos como aciertos, falsas alarmas, tiempos de reacción, sensibilidad y criterio de respuesta.
+
+---
+
+## 🧠 Marco Teórico
+
+La atención es un proceso dinámico que permite seleccionar y procesar información del entorno. Según el modelo de tres redes atencionales propuesto por Posner y Rothbart (2007), la atención sostenida depende de la interacción de tres redes: ejecutiva, de orientación y de alerta. Estas redes maduran de manera desigual durante la infancia y adolescencia, lo que influye en el desarrollo de la atención sostenida.
+
+---
+
+## 👦 Participantes
+
+Se estudiaron 220 escolares (106 niños y 114 niñas) con edades entre 7 y 13 años, provenientes de cinco colegios del Barrio Vedado en La Habana, Cuba. Ninguno de los participantes presentaba trastornos específicos del aprendizaje según informes psicopedagógicos.
+
+---
+
+## 🧪 Método
+
+### ✅ Instrumento
+
+Se utilizó una tarea de ejecución continua tipo Go/No-Go, implementada mediante el software Neurohipot. La tarea consistió en presentar 700 estímulos (70 dianas y 630 distractores) durante 12 minutos. Los participantes debían presionar la tecla Espacio al aparecer la letra "A" amarilla. Se analizaron aciertos, omisiones, falsas alarmas, rechazos correctos, tiempos de reacción, sensibilidad (d') y criterio de respuesta (β).
+
+### 🧮 Procedimiento
+
+Las evaluaciones se realizaron en grupos de 4 a 5 niños en condiciones de privacidad y silencio, entre las 10:00 y las 12:00 horas para controlar el ritmo circadiano.
+
+---
+
+## 📊 Resultados
+
+### ✅ Efectos de la Edad
+
+- **Aciertos**: Aumentaron con la edad, alcanzando su punto más alto entre los 8 y 12 años.
+    
+- **Falsas Alarmas**: Disminuyeron significativamente a partir de los 11 años.
+    
+- **Tiempo de Respuesta**: Se redujo progresivamente con la edad.
+    
+
+### ✅ Efectos del Sexo
+
+- **Aciertos y Sensibilidad (d')**: No se encontraron diferencias significativas entre niños y niñas.
+    
+- **Tiempo de Respuesta**: Los niños respondieron más rápidamente que las niñas.
+    
+- **Criterio de Respuesta (β)**: No hubo diferencias significativas entre sexos.
+    
+
+---
+
+## 🧠 Discusión
+
+Los resultados indican que la atención sostenida mejora con la edad, mostrando una discontinuidad en el desarrollo alrededor de los 8 años. Aunque no se encontraron diferencias significativas en rendimiento entre niños y niñas, los niños fueron más rápidos en sus respuestas. Estos hallazgos sugieren que los programas educativos deberían adaptarse a las necesidades de desarrollo de cada grupo de edad y considerar las diferencias de género en los tiempos de reacción.
+
+---
+
+## 🧩 Conclusiones
+
+- **Teóricas**: La atención sostenida no sigue un desarrollo lineal, y las clasificaciones etarias rígidas pueden no reflejar adecuadamente las transiciones neurobiológicas subyacentes.
+    
+- **Prácticas**: Los programas curriculares deben adaptarse a las características de atención de los niños en cada etapa del desarrollo. Para los niños más pequeños, es clave implementar actividades breves y variadas que fomenten la confianza en sus respuestas. Además, se debe considerar la diferencia en los tiempos de reacción entre niños y niñas al diseñar actividades y tareas.
