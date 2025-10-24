@@ -1,4 +1,4 @@
-# ==[[Consultas]]:==
+	# ==[[Consultas]]:==
 ##  *DDL (Data Definition Language)*
 ```MYSQL
 CREATE
@@ -137,7 +137,6 @@ VALUES
 UPDATE nombre_tabla
 SET columna = valor_nuevo, columna2 = valor_nuevo2
 WHERE condicion;
-
 
 UPDATE productos 
 SET precio = 1100,
@@ -427,4 +426,14 @@ SELECT  id_departamento, COUNT(*) AS cantidad_empleados
 FROM empleados
 WHERE id_departamento IS NOT NULL
 GROUP BY id_departamento
+```
+
+
+### Consulta abstracta
+Le asignamos parámetros con @nombreColumna
+
+```MySql
+INSERT INTO productos (nombre, precio, stock) 
+VALUES 
+(@nombre, @precio, @stock);
 ```

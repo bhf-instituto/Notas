@@ -94,20 +94,14 @@ Las evaluaciones se realizaron en grupos de 4 a 5 niños en condiciones de priva
 ### ✅ Efectos de la Edad
 
 - **Aciertos**: Aumentaron con la edad, alcanzando su punto más alto entre los 8 y 12 años.
-    
 - **Falsas Alarmas**: Disminuyeron significativamente a partir de los 11 años.
-    
 - **Tiempo de Respuesta**: Se redujo progresivamente con la edad.
-    
 
 ### ✅ Efectos del Sexo
 
 - **Aciertos y Sensibilidad (d')**: No se encontraron diferencias significativas entre niños y niñas.
-    
 - **Tiempo de Respuesta**: Los niños respondieron más rápidamente que las niñas.
-    
 - **Criterio de Respuesta (β)**: No hubo diferencias significativas entre sexos.
-    
 
 ---
 
@@ -120,5 +114,4 @@ Los resultados indican que la atención sostenida mejora con la edad, mostrando 
 ## 🧩 Conclusiones
 
 - **Teóricas**: La atención sostenida no sigue un desarrollo lineal, y las clasificaciones etarias rígidas pueden no reflejar adecuadamente las transiciones neurobiológicas subyacentes.
-    
 - **Prácticas**: Los programas curriculares deben adaptarse a las características de atención de los niños en cada etapa del desarrollo. Para los niños más pequeños, es clave implementar actividades breves y variadas que fomenten la confianza en sus respuestas. Además, se debe considerar la diferencia en los tiempos de reacción entre niños y niñas al diseñar actividades y tareas.

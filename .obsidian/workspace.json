@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Instituto 93/Metodología y UX/La atención sostenida en edad escolar.md",
+                "file": "Backend/BASES DE DATOS/SQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "La atención sostenida en edad escolar"
+              "title": "SQL"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -160,25 +160,29 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
     }
   },
   "active": "d39745b51732c63e",
   "lastOpenFiles": [
-    "Instituto 93/Metodología y UX/Investigación.md",
-    "Instituto 93/Metodología y UX/La atención sostenida en edad escolar.md",
+    "Backend/BASES DE DATOS/Ejercicios/Ejercicio SQL (Análisis de sistemas).md",
+    "Backend/BASES DE DATOS/SQL.md",
+    "Backend/BASES DE DATOS/Ejercicios/Ejercicio Fútbol.md",
+    "Instituto 93/Administracion/Parcial.md",
     "Instituto 93/Administracion/Datos, información.md",
+    "Instituto 93/Metodología y UX/Investigación.md",
+    "Instituto 93/Metodología y UX/TP Investigación.md",
+    "Instituto 93/Metodología y UX/La atención sostenida en edad escolar.md",
     "CSHARP/Clases/SHA256 (Hash).md",
     "Instituto 93/Administracion",
     "CSHARP/Clases/HashSet.md",
     "Instituto 93/Programación/TP 2.md",
-    "Backend/BASES DE DATOS/SQL.md",
     "Backend/BASES DE DATOS/DER/Análisis Estructurado Moderno - Edward Yourdon.md",
     "images/D3909000",
     "images/Diccionario de Datos - Analisis de sistemas.xlsx",
@@ -212,10 +216,6 @@
     "Backend/Node/Módulos externos/Dev",
     "GIT CMD  (cmdg).md",
     "JavaScript/Asincronía/Callbacks.md",
-    "Backend/Node/package.json.md",
-    "PowerShell/PowerShell.md",
-    "Backend/Node/Módulos Nativos/process.md",
-    "Backend/Node/Módulos externos",
-    "Backend/Node/NVM.md"
+    "Backend/Node/Módulos externos"
   ]
 }
