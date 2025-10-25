@@ -3,7 +3,7 @@
 **Empresa:** Panadería “El Trigal”  
 **Tipo de control actual:** Control familiar
 
-#### ✅ **1. Posibles problemas si la empresa creciera:**
+####  **1. Posibles problemas si la empresa creciera:**
 
 Si la panadería se expande (por ejemplo, abre nuevas sucursales, aumenta su producción o su cantidad de empleados), el **control familiar** puede presentar varios problemas:
 
@@ -21,7 +21,7 @@ Si la panadería se expande (por ejemplo, abre nuevas sucursales, aumenta su pro
 
 ---
 
-#### ✅ **2. Nuevos controles necesarios al ampliar el negocio:**
+####  **2. Nuevos controles necesarios al ampliar el negocio:**
 
 Si la panadería crece, debería **evolucionar hacia sistemas más formalizados** de control, combinando algunos de los otros tipos descritos por Amat:
 
@@ -30,7 +30,6 @@ Si la panadería crece, debería **evolucionar hacia sistemas más formalizados*
     - Implementar una estructura más clara con jefes o encargados por sector.
     - Usar indicadores cuantitativos (ventas diarias, costos, eficiencia).
     - Desarrollar un sistema básico de contabilidad y control de stock.
-
 2. **Aplicar _Control por Resultados_**
     - Establecer objetivos (por ejemplo, aumentar ventas mensuales, reducir desperdicio, mejorar rentabilidad).
     - Comparar resultados reales con los objetivos mediante informes periódicos.
@@ -38,13 +37,12 @@ Si la panadería crece, debería **evolucionar hacia sistemas más formalizados*
 3. **Fortalecer _Controles Internos_**
     - Separar funciones: quien cobra no debe registrar los ingresos, quien compra no debe autorizar pagos, etc.
     - Implementar revisiones periódicas para evitar errores o fraudes.
-
 4. **Introducir _Control Presupuestario_**
     - Elaborar un presupuesto anual para planificar gastos, compras de insumos y metas de ventas.
     - Evaluar desvíos entre lo presupuestado y lo real.
-
+    
 ---
-#### 🧭 **Conclusión:**
+####  **Conclusión:**
 
 > El control familiar funciona bien mientras la panadería sea pequeña y estable, pero si crece, deberá complementar o reemplazar ese modelo por controles más formales (burocráticos y por resultados) para mantener la eficiencia, la transparencia y el orden en la gestión.
 
