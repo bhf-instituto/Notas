@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Instituto 93/Administracion/Datos, información.md",
+                "file": "Instituto 93/Administracion/Segundo Parcial/Resumen propio/Clase 9 - Planeamiento Estrategico.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Datos, información"
+              "title": "Clase 9 - Planeamiento Estrategico"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
+              "title": "Files"
             }
           },
           {
@@ -160,25 +160,34 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
   "active": "d39745b51732c63e",
   "lastOpenFiles": [
-    "Instituto 93/Administracion/Parcial.md",
+    "Instituto 93/Administracion/Segundo Parcial/Clase 9 - Planeamiento estrategico.md",
+    "Instituto 93/Administracion/Segundo Parcial/Resumen propio/Clase 9 - Planeamiento Estrategico.md",
+    "Instituto 93/Administracion/Segundo Parcial/Resumen propio",
+    "Instituto 93/Administracion/Segundo Parcial/Clase 14 - Gestión de control.md",
+    "Instituto 93/Administracion/Segundo Parcial/Clase 13 - Control.md",
+    "Instituto 93/Administracion/Segundo Parcial/Clase 12 - Sistema de información y control.md",
+    "Instituto 93/Administracion/Segundo Parcial/Clase 11 - Presupuestos.md",
+    "Instituto 93/Administracion/Segundo Parcial/Clase 10 - Tipos de Presupuestos.md",
     "Instituto 93/Administracion/TP Tipos de Control.md",
+    "Instituto 93/Administracion/Datos, información.md",
+    "Instituto 93/Administracion/Segundo Parcial",
+    "Instituto 93/Administracion/Parcial.md",
     "Pasted image 20251024140140.png",
     "Organigrama Textil Sudamericana S. A..png",
     "Backend/BASES DE DATOS/SQL.md",
     "Backend/BASES DE DATOS/Ejercicios/Ejercicio SQL (Análisis de sistemas).md",
     "Backend/BASES DE DATOS/Ejercicios/Ejercicio Fútbol.md",
-    "Instituto 93/Administracion/Datos, información.md",
     "Instituto 93/Metodología y UX/Investigación.md",
     "Instituto 93/Metodología y UX/TP Investigación.md",
     "Instituto 93/Metodología y UX/La atención sostenida en edad escolar.md",
@@ -206,15 +215,7 @@
     "Backend/Node/Módulos externos/Dev/picocolors.md",
     "Backend/Node/Módulos externos/Dev/bcryptjs.md",
     "Backend/BASES DE DATOS/SQLite.md",
-    "General/Estructura de Datos Hash.md",
-    "Backend/Node/Módulos externos/Express/Curso SmolJames/Creando el servidor.md",
-    "Backend/Node/Node.md",
-    "Backend/Node/Módulos externos/Dev/nodemon.md",
     "Backend/Node/Módulos externos/Express/Curso SmolJames",
-    "JavaScript/Node/Módulos externos/Express/Datas.md",
-    "Backend/Node/Módulos externos/Express",
-    "Backend/Node/Módulos externos/Dev/cross-env.md",
-    "Backend/Node/Módulos externos/Dev",
-    "Backend/Node/Módulos externos"
+    "Backend/Node/Módulos externos/Express"
   ]
 }
