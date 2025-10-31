@@ -177,6 +177,34 @@ WHERE stock < 20
 ORDER BY stock ASC
 ```
 
+##### LIKE y %  → Comodín o Wildcard
+Esta query trae todos los productos que en su columna nombre tengan **exactamente** "aceite".
+```Mysql
+SELECT * 
+FROM productos
+WHERE nombre
+LIKE "aceite"
+```
+
+Esta query trae todos los productos cuto nombre comience(1) o termine(2) con "aceite"
+```Mysql
+(1)
+SELECT * 
+FROM productos
+WHERE nombre
+LIKE "aceite%"
+(2)
+...
+LIKE "%aceite"
+```
+
+Esta query trae todos los productos cuyo nombre contenga "ace", este caso funciona como el método .Contains() de los strings en lenguajes de programación. 
+```Mysql
+SELECT * 
+FROM productos
+WHERE nombre
+LIKE "%ace%"
+```
 #### Funciones de agregación
 ```MySql
 -- El COUNT es god, te devuelve la cantidad de algo que le pidas
@@ -237,7 +265,7 @@ FROM
 -- devuelve el último nombre ALFABETICAMENTE ("Yerba")
 ```
 
-**AVG (Average)**: Calcula el promedio. (∑n)/n
+**AVG (Average)**: Calcula el promedio. ( ∑n/n )
 
 ```MySql 
 SELECT 
@@ -354,8 +382,9 @@ WHERE id_departamento = NULL;
 ```
 ### JOINS
 #### INNER JOIN
-	Solo muestra los registros que coinciden tanto de la tabla A como de la tabla B.
-	**Forma explícita**
+Solo muestra los registros que coinciden tanto de la tabla A como de la tabla B.
+
+##### **Forma explícita**
 ```MySQL
 SELECT * 
 FROM empleados 
@@ -364,7 +393,8 @@ ON empleados.id_departamento = departamentos.id_departamento
 LIMIT 5
 -- Hay más
 ```
-	**Forma implícita**
+
+##### **Forma implícita**
 ```MySQL
 SELECT * 
 FROM empleados, departamentos

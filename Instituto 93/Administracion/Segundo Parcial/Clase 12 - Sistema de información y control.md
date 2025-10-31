@@ -1,110 +1,67 @@
-## 🧾 **Clase N.º 12 – Unidad 4: Sistema de Información y Control**
+## 🧭 **Resumen general**
 
-### 📌 **Concepto general**
-
-El **sistema de información y control** es el conjunto de procedimientos y herramientas que **registran, procesan y comunican datos** para facilitar la **toma de decisiones** dentro de la empresa.  
-Permite conocer la situación económica, financiera y operativa, y controlar el cumplimiento de los objetivos organizacionales.
+El texto trata sobre el **Sistema de Información** dentro de las organizaciones, su función, los conceptos de _dato e información_, y el papel de la **contabilidad** como parte fundamental de dicho sistema.
 
 ---
 
-### 🧠 **Funciones principales**
+### 🔹 **1. Concepto de información**
 
-1. **Recolección de datos:** Obtiene información de las distintas áreas (ventas, producción, finanzas, etc.).
-2. **Procesamiento:** Transforma los datos en información útil y confiable.
-3. **Comunicación:** Distribuye la información a los responsables de las decisiones.
-4. **Control:** Compara resultados reales con los planificados para detectar desviaciones y corregirlas.
+- En las empresas, los gerentes necesitan información para **dirigir y controlar**.
+- Se **distingue entre datos e información**:
+    - **Datos**: son símbolos o registros sin interpretar (números, códigos, textos).
+    - **Información**: son **datos organizados y significativos** que reducen la incertidumbre y permiten **tomar decisiones**.
+    - Ejemplo: una lista de números es un dato; un informe que muestra la evolución de ventas, una información.
+### 🔹 **2. Datos e información según Saroka y Collazo (1996)**
 
----
+- Los **datos son representaciones simbólicas** de las entidades reales de una organización (personas, objetos, hechos).
+- Se convierten en **información** cuando **tienen significado para el receptor** y permiten comunicación y comprensión común.
+### 🔹 **3. Sistema de información según Emery (1972)**
 
-### 💡 **Objetivos del sistema de información**
+- El sistema de información es **como el sistema nervioso de un organismo**:  
+    capta, clasifica, transmite, almacena y transforma datos en información útil.
+- Su **finalidad** es **proporcionar información para la toma de decisiones y coordinación**.
+### 🔹 **4. Tecnología y transformación según Gilli et al. (2000)**
 
-- Mejorar la **eficiencia administrativa**.
-- Facilitar el **planeamiento, la dirección y el control**.
-- Servir de base para la **toma de decisiones**.
-- Asegurar la **integridad y confiabilidad** de los datos.
+- Las **tecnologías de la información y comunicación (TIC)** potencian los sistemas de información.
+- Gracias a la informática se transforman las formas de hacer negocios y surgen nuevas realidades como el **comercio electrónico, las redes globales o las oficinas virtuales**.
 
----
-### 🏢 **Tipos de información en la empresa**
+### 🔹 **5. Contabilidad como sistema de información**
 
-| **Tipo**           | **Propósito**                                     | **Ejemplo**                            |
-| ------------------ | ------------------------------------------------- | -------------------------------------- |
-| **Económica**      | Mide los resultados de la gestión.                | Estados contables, ingresos y egresos. |
-| **Financiera**     | Refleja la liquidez y capacidad de pago.          | Flujo de caja, cuentas a cobrar/pagar. |
-| **Administrativa** | Apoya la planificación y el control operativo.    | Informes de producción o ventas.       |
-| **Operativa**      | Permite el seguimiento diario de las actividades. | Registro de asistencia, stock, etc.    |
+- La **contabilidad registra y resume** todas las operaciones de la empresa, brindando información para la **toma de decisiones y control**.
+- El sistema contable permite saber si:
+    1. La producción conjunta supera a las individuales (creación de valor).
+    2. El reparto del excedente entre los miembros es justo.
+- La información contable debe expresarse en **dinero**, ya que es la única unidad que permite **comparar y decidir** racionalmente.
 
----
+### 🔹 **6. Contabilidad tradicional vs contabilidad gerencial (Mucelli y Muñoz, 2006)**
 
-### 🧩 **Sistema contable**
+- **Contabilidad tradicional (o financiera):**
+    - Se centra en **los estados contables** (balance, resultados).
+    - Informa sobre **ingresos, egresos y patrimonio**.
+    - Se apoya en el **registro contable** y las operaciones pasadas.
+- **Contabilidad gerencial:**
+    - Se enfoca en **apoyar la toma de decisiones**.
+    - Relaciona la contabilidad con los **objetivos y estrategias** del negocio.
+    - Brinda información **prospectiva y analítica** para la dirección.
+### 🔹 **7. Relación entre disciplinas**
 
-Es el **subsistema del sistema de información** que se encarga de **registrar y medir los hechos económicos** de una organización.  
-Su finalidad es brindar información **económica y financiera** sobre la situación patrimonial y los resultados obtenidos.
+La **Administración**, la **Contabilidad** y la **Tecnología informática** son interdependientes:
+- La administración necesita información contable para decidir.
+- La contabilidad necesita tecnología para registrar y procesar.
+- La informática da soporte al sistema de información general.
 
----
+| **Autor**                   | **Aporte principal**                                                                                                                                                               | **Enfoque**                                                               |
+| --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| **Saroka y Collazo (1996)** | Definen los **datos** como representaciones simbólicas de entidades y hechos de la organización. Los **datos se vuelven información cuando tienen significado compartido**.        | Conceptual – distingue entre dato e información.                          |
+| **Emery (1972)**            | Compara el **sistema de información** con el **sistema nervioso** del cuerpo. Destaca sus funciones (captar, transmitir, almacenar, etc.) y su finalidad: **decidir y coordinar**. | Funcional – explica cómo opera el sistema de información.                 |
+| **Gilli et al. (2000)**     | Subrayan el papel transformador de la **tecnología informática y de comunicación** en las organizaciones y los mercados.                                                           | Tecnológico – muestra el impacto de la informática.                       |
+| **Mucelli y Muñoz (2006)**  | Distinguen entre **contabilidad tradicional (financiera)** y **contabilidad gerencial**, y destacan la contabilidad como **sistema de información para la gestión**.               | Administrativo y contable – enfoque estratégico en la toma de decisiones. |
 
-### ⚙️ **Elementos del sistema contable**
+## 🧩 **Síntesis final**
 
-1. **Cuentas:** Representan los distintos elementos del patrimonio (bienes, derechos, deudas, capital, ingresos y egresos).
-2. **Registros contables:** Libros donde se anotan las operaciones (Diario, Mayor, Inventarios y Balances).
-3. **Documentos de respaldo:** Comprobantes de cada operación (facturas, recibos, notas de crédito, etc.).
+En conjunto, los autores explican que:
 
----
-
-### 📚 **Clasificación de cuentas**
-
-|**Tipo de cuenta**|**Qué representa**|**Ejemplo**|
-|---|---|---|
-|**Activo**|Bienes y derechos de la empresa.|Caja, Bancos, Clientes, Mercaderías.|
-|**Pasivo**|Obligaciones o deudas con terceros.|Proveedores, Préstamos, Sueldos a pagar.|
-|**Patrimonio neto**|Aportes de los dueños + resultados acumulados.|Capital, Resultados del ejercicio.|
-|**Ingresos**|Aumentan el patrimonio neto.|Ventas, Intereses ganados.|
-|**Egresos**|Disminuyen el patrimonio neto.|Sueldos, Alquileres, Servicios.|
-
-### 📊 **Estados contables principales**
-
-#### 1️⃣ **Estado de Situación Patrimonial (o Balance General)**
-
-Muestra la **situación económica y financiera de la empresa** en una fecha determinada.  
-Se compone de tres elementos:
-
-> **Activo = Pasivo + Patrimonio Neto**
-
-Permite conocer qué posee, qué debe y el valor propio de la organización.
-
-#### 2️⃣ **Estado de Resultados**
-
-Informa el **resultado económico del ejercicio**, comparando **ingresos y egresos**.
-
-> Si los ingresos superan a los egresos → **Utilidad**  
-> Si los egresos superan a los ingresos → **Pérdida**
-
----
-
-### 🧾 **Importancia del sistema contable**
-
-- Brinda **información confiable** para evaluar la gestión.
-- Permite **controlar recursos** y prevenir errores o fraudes.
-- Sirve de **base para decisiones financieras** y estratégicas.
-- Cumple una **función legal y fiscal**, ya que respalda la rendición ante organismos externos.
-
----
-
-### 🧮 **Ejemplo práctico**
-
-Una empresa compra mercaderías por $100.000 a crédito.
-
-- **Activo (Mercaderías)** aumenta $100.000
-- **Pasivo (Proveedores)** aumenta $100.000  
-    ➡ No cambia el patrimonio neto, ya que no hay resultado aún.  
-    Luego, al vender por $150.000 al contado:
-- **Activo (Caja)** aumenta $150.000
-- **Activo (Mercaderías)** disminuye $100.000
-- **Resultado (Ganancia)** +$50.000  
-    ➡ El Patrimonio Neto aumenta en $50.000.
-
----
-
-### 🧩 **Síntesis final**
-
-El sistema de información y control es esencial para **evaluar la marcha de la organización**, garantizando que los recursos se utilicen adecuadamente.  
-Dentro de él, el **sistema contable** cumple una función clave: **registrar, medir e informar** sobre la situación económica y financiera, facilitando la **toma de decisiones y el control de gestión**.
+- Los **datos** son la base, pero la **información organizada** es la que permite actuar.
+- Un **sistema de información** convierte datos en información útil para la dirección.
+- La **tecnología** amplía y acelera este proceso.
+- La **contabilidad**, apoyada en la tecnología, constituye el núcleo informativo que guía las decisiones gerenciales.

@@ -11,7 +11,7 @@ Podemos decir que es algo imaginario que no tiene realidad, pero se toma como ve
 
 Estas visiones sólo cobran sentido cuando no son un mero slogan definido por una empresa de publicidad o un asesor en relaciones públicas, sino un propósito claro, arraigado en la conducción y en la cultura de la empresa. 
 
-> *Cuando la organización tiene un sentido claro de su propósito, de su dirección y del estado
+>*Cuando la organización tiene un sentido claro de su propósito, de su dirección y del estado
    futuro deseado, y cuando este ideal es compartido por todos, resulta más fácil que los integrantes
    de la organización sean conscientes de los roles que les toca cumplir. De este modo se
    comprometen en una realización que es creativa y que tiene un propósito específico el
@@ -115,7 +115,6 @@ Una empresa analiza que en su sector hay muchos competidores con precios bajos. 
 
 ### **ESCUELAS DESCRIPTIVAS**
 Los distintos enfoques tratan de describir el proceso de toma de decisiones estratégicas como un proceso visionario, como un proceso mental, como un proceso emergente o desde la perspectiva del poder, de la cultura organizacional o como reacción frente al entorno.
-
 #### **Entrepreneur** (Emprendedor)
 La estrategia resulta de la **visión personal del empresario o líder**, quien imagina el futuro de la organización y guía sus acciones.  
 Se basa en la **intuición, la experiencia y el instinto** del líder, que **proporciona dirección y energía** al proyecto.  

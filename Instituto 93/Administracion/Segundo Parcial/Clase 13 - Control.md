@@ -8,7 +8,7 @@ Implica **comparar resultados obtenidos con los previstos**, detectar **desvíos
 Según distintos autores:
 
 - **Blanco Illescas (1994):** el control es un **esfuerzo disciplinado para optimizar un plan**; guiar los hechos para que los resultados coincidan o superen los deseados.
-- **Amat (1993):** asegura que las actividades se realicen de la forma deseada y contribuyan a los objetivos globales.
+- **Amat (1993):** dice que el control asegura que las actividades se realicen de la forma deseada y contribuyan a los objetivos globales.
 - **Álvarez (1996):** consiste en **medir el progreso y tomar medidas correctivas** para dirigir las acciones según los planes.
 - **Drucker (1998):** distingue entre _control_ (dirección hacia un fin) y _controles_ (medición e información).
 
