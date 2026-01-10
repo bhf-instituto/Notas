@@ -38,16 +38,12 @@ De esta forma:
 Por seguridad.
 
 - Si un JWT fuera **infinito**, cualquiera que lo robe tendría acceso para siempre.
-    
 - Con un tiempo de expiración (ej. `15m`, `1h`, `7d`), el token caduca y ya no sirve.
-    
 - Esto **limita el daño en caso de robo**.
-    
 
 Generalmente se usan dos tipos:
 
 - **Access Token** (vida corta, ej. 15 min – 1h).
-    
 - **Refresh Token** (vida más larga, ej. 7 días – 30 días). Se usa para pedir un nuevo access token sin volver a loguearse.
 ### Crear (firmar) un token
 

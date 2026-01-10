@@ -29,19 +29,17 @@ Según distintos autores:
     2. Considerar **hechos mensurables y no mensurables** (aspectos cuantitativos y cualitativos).
     3. Reconocer que la medición **no es neutral**, ya que influye en la conducta y en la percepción.
 
----
-
 ### ⚙️ **Especificaciones de los controles efectivos (según Drucker)**
 
-|**Requisito**|**Descripción**|
-|---|---|
-|**Económicos**|Cuanto menor el esfuerzo o número de controles, más eficiente será el sistema.|
-|**Significativos**|Deben medir hechos verdaderamente importantes.|
-|**Apropiados**|Ajustarse a la naturaleza de los fenómenos que miden.|
-|**Congruentes**|Ser coherentes con la realidad medida y con el contexto.|
-|**Oportunos**|Aplicarse en el momento adecuado.|
-|**Sencillos**|Evitar la complejidad innecesaria.|
-|**Operativos**|Deben llevar a la acción, no solo a la información.|
+| **Requisito**      | **Descripción**                                                                |
+| ------------------ | ------------------------------------------------------------------------------ |
+| **Económicos**     | Cuanto menor el esfuerzo o número de controles, más eficiente será el sistema. |
+| **Significativos** | Deben medir hechos verdaderamente importantes.                                 |
+| **Apropiados**     | Ajustarse a la naturaleza de los fenómenos que miden.                          |
+| **Congruentes**    | Ser coherentes con la realidad medida y con el contexto.                       |
+| **Oportunos**      | Aplicarse en el momento adecuado.                                              |
+| **Sencillos**      | Evitar la complejidad innecesaria.                                             |
+| **Operativos**     | Deben llevar a la acción, no solo a la información.                            |
 
 ### 🧱 **Niveles de control**
 

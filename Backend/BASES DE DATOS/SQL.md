@@ -1,4 +1,3 @@
-	# ==[[Consultas]]:==
 ##  *DDL (Data Definition Language)*
 ```MYSQL
 CREATE
@@ -10,6 +9,28 @@ Para borrar todos los datos de una tabla rápidamente, y resetear su contador **
 (No sirve si tiene **FOREIGN KEYS** ):
 ```mYsQL
 TRUNCATE TABLE nombre_de_la_tabla;
+```
+
+
+Para resetear una tabla a su estado inicial:
+```mysql
+SET FOREIGN_KEY_CHECKS = 0;
+
+TRUNCATE TABLE expenses;
+TRUNCATE TABLE collection_users;
+TRUNCATE TABLE collections;
+TRUNCATE TABLE users;
+
+SET FOREIGN_KEY_CHECKS = 1;
+
+# - Borra **TODOS** los registros 
+# - Resetea los `AUTO_INCREMENT`  
+# - Mantiene:
+#     - tablas  
+#     - índices 
+#     - constraints 
+# - Queda exactamente como **recién creada**
+
 ```
 
 ```MySql
@@ -61,12 +82,20 @@ CREATE TABLE hamburguesa_ingredientes (
 	FOREIGN KEY (id_ingrediente) REFERENCES ingredientes(id_ingrediente)
 );
 
+## Declarando un ENUM: 
+CREATE TABLE expenses (
+    id_expense INT AUTO_INCREMENT PRIMARY KEY,
+    amount DECIMAL(10,2) UNSIGNED NOT NULL,
+    type ENUM('FIJO', 'VARIABLE') NOT NULL,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
 
 -- DATETIME DEFAULT CURRENT_TIMESTAMP elegimos como valor por defecto el la hora actual. 
 CREATE TABLE tabla(
     fecha DATETIME DEFAULT CURRENT_TIMESTAMP,
 ) ENGINE = INNODB;
 ```
+
 Para renombrar una tabla:
 ```MySQL
 RENAME TABLE nombre_actual TO nuevo_nombre;
@@ -90,6 +119,61 @@ Para modificar solamente el tipo de dato de una columna, en este caso de DOUBLE 
 ALTER TABLE productos MODIFY costo DECIMAL (12,2);
 ```
 
+### Resetear una tabla con relaciones
+Borro todos los datos de las tablas, seteo (reseteo) los indices (index) a 0.
+
+```mysql
+SET FOREIGN_KEY_CHECKS = 0; 
+
+DELETE FROM users ;
+# Depende si las quier oborrar o solo truncar
+TRUNCATE FROM users ;
+
+ALTER TABLE users AUTO_INCREMENT = 1;
+SET FOREIGN_KEY_CHECKS = 1;
+```
+
+
+
+Se puede validar datos :
+```mysql
+
+## en este caso valido que la cantidad sea mayor a 0
+CREATE TABLE expenses (
+    id_expense INT AUTO_INCREMENT PRIMARY KEY,
+    amount INT NOT NULL,
+    CHECK (amount >= 0)
+);
+
+## Tambien tenemos UNSIGNED que le quita el signo al numero, duplica el rango de positivos.
+CREATE TABLE expenses (
+    amount INT UNSIGNED NOT NULL,
+);
+
+ALTER TABLE expenses
+ADD CONSTRAINT chk_amount_non_negative
+CHECK (amount >= 0);
+```
+
+Al crear una restricción ( CONSTRAINT ) hay que explicitar el nombre de por ejemplo una relación, si no SQL pondrá un nombre. 
+
+```mysql
+CREATE TABLE expenses (
+    id_expense INT AUTO_INCREMENT PRIMARY KEY,
+    amount INT UNSIGNED NOT NULL,
+    type ENUM('FIJO', 'VARIABLE') NOT NULL,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    user_id INT NOT NULL,
+    group_id INT NOT NULL,
+    
+    CONSTRAINT fk_expense_user ← nombre 
+        FOREIGN KEY (user_id) REFERENCES users(id_user),
+
+    CONSTRAINT fk_expense_group
+        FOREIGN KEY (group_id) REFERENCES groups(id_group)
+);
+```
+
 Para borrar una columna: 
 ```MySql
 ALTER TABLE productos DROP COLUMN descripcion;
@@ -100,6 +184,41 @@ Para agregar una columna:
 ALTER TABLE nombre_tabla
 ADD COLUMN nombre_columna tipo_de_dato;
 ```
+
+Para reiniciar una DB a su estado inicial: 
+```mysql
+SET FOREIGN_KEY_CHECKS = 0;
+
+
+DELETE FROM tabla_1;
+DELETE FROM tabla_2;
+...
+
+ALTER TABLE tabla_1 AUTO_INCREMENT = 1;
+ALTER TABLE tabla_2 AUTO_INCREMENT = 1;
+
+SET FOREIGN_KEY_CHECKS = 1;
+```
+
+
+
+### Pedir información de las DB, tablas
+```MySql
+SHOW DATABASES;
+SHOW TABLES;
+DESCRIBE nombre_tabla;
+SHOW COLUMNS FROM nombre_tabla;
+
+## pedir ver el codigo sql de una tabla por ejemplo: 
+SHOW CREATE TABLE nombre_tabla;
+
+## ver las claves foreaneas
+SHOW CREATE TABLE nombre_tabla\G;
+
+
+```
+
+
 ##  *DML (Data Manipulation Language)(CRUD)*
 ```MYSQL
 SELECT
@@ -186,7 +305,7 @@ WHERE nombre
 LIKE "aceite"
 ```
 
-Esta query trae todos los productos cuto nombre comience(1) o termine(2) con "aceite"
+Esta query trae todos los productos cuyo nombre comience(1) o termine(2) con "aceite"
 ```Mysql
 (1)
 SELECT * 
@@ -466,4 +585,117 @@ Le asignamos parámetros con @nombreColumna
 INSERT INTO productos (nombre, precio, stock) 
 VALUES 
 (@nombre, @precio, @stock);
+```
+
+# Usuarios y privilegios
+## Creando usuarios y dándole privilegios
+```mysql
+## creando usuario
+CREATE USER 'app_user'@'%' IDENTIFIED BY 'password_segura';
+
+## dando privilegios
+GRANT SELECT, INSERT, UPDATE, DELETE
+ON mi_app_db.*
+TO 'app_user'@'%';
+
+FLUSH PRIVILEGES;
+```
+
+### Ver privilegios
+```MYSQL
+SHOW GRANTS FROM 'user'@'host';
+```
+
+### Revocar quitar privilegios
+```mysql
+## Puntuales
+REVOKE INSERT, UPDATE ON midb.* FROM 'user'@'localhost';
+
+## Todos
+REVOKE ALL PRIVILEGES ON midb.* FROM 'user'@'localhost';
+```
+### Creo un archivo de configuracion para evitar escribir las ocntraseñas manualmente
+
+- esto encripta la contraseña y al guarda en el servidor.
+
+```bash
+## verifico si existe mysql_config_editor:
+mysql_config_editor print --all
+
+## si quiero borrarlo:
+mysql_config_editor remove --login-path=localroot
+
+## si quiero crearlo: 
+mysql_config_editor set \
+--login-path=localroot \
+--user=root \
+--host=localhost \
+--password
+
+## Te pide el password y listo.
+
+## Finalmente se accede al usuario MySql asi :
+mysql --login-path=localroot # localroot : usuario cargado en mysql_config_editor
+
+```
+
+### Ver usuarios :
+
+```mysql 
+SELECT user, host
+FROM mysql.user
+ORDER BY user, host;
+
+SELECT USER(), CURRENT_USER();
+```
+
+
+## Creando usaurio admin (prvileges, config_editor)
+
+```mysql
+# Creamos el usuario
+CREATE USER 'admin'@'localhost'
+IDENTIFIED WITH mysql_native_password
+BY 'PasswordFuerteAqui!';
+
+# Damos privilegios y aplicamos cambios
+GRANT ALL PRIVILEGES ON *.* 
+TO 'dbadmin'@'localhost'
+WITH GRANT OPTION;
+FLUSH PRIVILEGES;
+
+# verificamos si se creo correctamente 
+SELECT user, host, plugin
+FROM mysql.user
+WHERE user = 'admin';
+
+# Hecho esto salimso de MySQL
+EXIT
+```
+	
+	↓↓ sigue en bash ↓↓
+	
+```bash
+
+# probamos el login del nuevo usuario
+mysql -u admin -p
+
+# Configuramos el archivo `mysql_config_editor`
+# Creamos login path
+
+mysql_config_editor set \
+--login-path=dbadmin \
+--user=dbadmin \
+--host=localhost \
+--password
+
+# La consola me pide la contraseña, se la damos y listo. Ahora verificamos.
+mysql_config_editor print --all
+
+# ACCEDEMOS :
+mysql --login-path=admin
+
+# Verificacion final dentro de mysql
+SELECT USER(), CURRENT_USER();
+
 ```

@@ -7,16 +7,14 @@ Según **Amat (1993)**:
 
 > “El control de gestión es el conjunto de mecanismos que puede utilizar la dirección para aumentar la probabilidad de que el comportamiento de las personas sea coherente con los objetivos de la empresa.”
 
----
-
 ### 🧩 **Clasificación de los tipos de control (según Amat, 1993)**
 
-|**Tipo de control**|**Características principales**|**Énfasis del control**|
-|---|---|---|
-|**Familiar**|Propio de pequeñas empresas. Liderazgo personal del fundador, cultura paternalista, estrategia espontánea y estructura centralizada. Basado en la confianza y la lealtad.|En el **comportamiento humano**.|
-|**Burocrático**|Formalizado, con estructura jerárquica, funciones definidas y baja descentralización. Indicadores cuantitativos y orientación a la eficiencia.|En los **indicadores y procedimientos**.|
-|**Por resultados**|Empresas grandes, dinámicas y competitivas. Cultura flexible, estructura divisional, sistemas descentralizados. Indicadores financieros y enfoque en el corto plazo.|En las **desviaciones y resultados**.|
-|**Ad hoc**|Flexible y creativo. Estructura por proyectos o unidades de negocio. Cultura profesional y participativa. Indicadores cualitativos, control descentralizado.|En los **procesos, creatividad y flexibilidad**.|
+| **Tipo de control** | **Características principales**                                                                                                                                           | **Énfasis del control**                          |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
+| **Familiar**        | Propio de pequeñas empresas. Liderazgo personal del fundador, cultura paternalista, estrategia espontánea y estructura centralizada. Basado en la confianza y la lealtad. | En el **comportamiento humano**.                 |
+| **Burocrático**     | Formalizado, con estructura jerárquica, funciones definidas y baja descentralización. Indicadores cuantitativos y orientación a la eficiencia.                            | En los **indicadores y procedimientos**.         |
+| **Por resultados**  | Empresas grandes, dinámicas y competitivas. Cultura flexible, estructura divisional, sistemas descentralizados. Indicadores financieros y enfoque en el corto plazo.      | En las **desviaciones y resultados**.            |
+| **Ad hoc**          | Flexible y creativo. Estructura por proyectos o unidades de negocio. Cultura profesional y participativa. Indicadores cualitativos, control descentralizado.              | En los **procesos, creatividad y flexibilidad**. |
 
 ### 💬 **Actividad: ¿En cuál de estos sistemas se aplicaría con más éxito el control de gestión?**
 
@@ -30,7 +28,6 @@ El **control de gestión** se aplica con más éxito en el **Control por resulta
 
 Sin embargo, puede **complementarse con elementos del control ad hoc**, especialmente en organizaciones innovadoras que priorizan la flexibilidad y la cultura colaborativa.
 
----
 ### 📈 **Evolución del control de gestión**
 
 Según Amat, existen **cuatro perspectivas** que reflejan distintas formas de entender el control dentro de las organizaciones:

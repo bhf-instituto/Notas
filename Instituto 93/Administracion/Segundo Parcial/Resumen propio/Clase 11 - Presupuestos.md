@@ -6,7 +6,7 @@ Este control se realiza comparando los valores **presupuestados con los resultad
 - La empresa necesita un **plan de cuentas bien estructurado**, que permita analizar los datos y detectar desvíos.
 - El control debe hacerse de forma **periódica** —idealmente **mensual**—, aunque nunca con una frecuencia mayor a un trimestre.
 
-#### 🔍 **Etapas del proceso de control presupuestario**
+#### **Etapas del proceso de control presupuestario**
 
 1. **Recolección de datos reales** (costos, ingresos, resultados, etc.).
 2. **Comparación** con lo presupuestado para detectar **variaciones o desvíos**.
