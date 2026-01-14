@@ -5,6 +5,8 @@ ALTER
 DROP
 TRUNCATE
 ```
+
+
 Para borrar todos los datos de una tabla rápidamente, y resetear su contador **AUTO_INCREMENT**
 (No sirve si tiene **FOREIGN KEYS** ):
 ```mYsQL
@@ -12,7 +14,7 @@ TRUNCATE TABLE nombre_de_la_tabla;
 ```
 
 
-Para resetear una tabla a su estado inicial:
+Para resetear tablas con **FOREIGN KEYS** a su estado inicial:
 ```mysql
 SET FOREIGN_KEY_CHECKS = 0;
 
@@ -20,6 +22,11 @@ TRUNCATE TABLE expenses;
 TRUNCATE TABLE collection_users;
 TRUNCATE TABLE collections;
 TRUNCATE TABLE users;
+
+SET FOREIGN_KEY_CHECKS = 0;
+
+ALTER TABLE expenses AUTO_INCREMENT = 1
+...
 
 SET FOREIGN_KEY_CHECKS = 1;
 
@@ -699,3 +706,4 @@ mysql --login-path=admin
 SELECT USER(), CURRENT_USER();
 
 ```
+
