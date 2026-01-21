@@ -161,3 +161,18 @@ CREATE INDEX idx_providers_set
 
 ```
 
+## RESETEAR TABLAS 
+
+```mysql
+SET FOREIGN_KEY_CHECKS = 0;
+
+TRUNCATE TABLE categories;
+TRUNCATE TABLE expenses;                  
+TRUNCATE TABLE providers;                
+TRUNCATE TABLE refresh_tokens;          
+TRUNCATE TABLE set_users;                
+TRUNCATE TABLE sets;                    
+TRUNCATE TABLE users;
+
+SET FOREIGN_KEY_CHECKS = 1;
+```
